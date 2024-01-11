@@ -1,9 +1,5 @@
 # Ultimate Guide to setup React Context API with our custom hook [Typescript]
 
-![Banner for Ultimate Guide to setup React Context API with our custom hook [Typescript]
-](./src/img/dev.jpg "# Ultimate Guide to setup React Context API with our custom hook [Typescript]
-")
-
 To start working on this project simply run the following commands
 
 ```
